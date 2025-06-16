@@ -14,7 +14,7 @@ import {
   ArrowLeft,
 } from "lucide-react";
 import Image from "next/image";
-import { fabric } from "fabric";
+// import { fabric } from "fabric";
 // import {  Rect } from "fabric";
 import { mockPatterns, mockProducts } from "@/utils/config";
 // import Home from "./App";
