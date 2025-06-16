@@ -15,11 +15,11 @@ import {
 } from "lucide-react";
 import Image from "next/image";
 import { fabric } from "fabric";
-import { Canvas, Rect } from "fabric";
+// import {  Rect } from "fabric";
 import { mockPatterns, mockProducts } from "@/utils/config";
-import Home from "./App";
-import dynamic from "next/dynamic";
-import AppCreative from "./creative/page";
+// import Home from "./App";
+// import dynamic from "next/dynamic";
+// import AppCreative from "./creative/page";
 import { useRouter } from "next/navigation";
 // import CustomizePage from "./(DashboardLayout)/dashboard/customize/page";
 
