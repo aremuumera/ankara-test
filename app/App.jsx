@@ -43,7 +43,7 @@ const Home = () => {
       <Toolbar />
 
       <section className="flex justify-between">
-        {/* <Layers /> */}
+        <Layers />
         <canvas ref={canvasRef} />
         <Design />
       </section>
