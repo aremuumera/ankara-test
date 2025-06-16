@@ -20,7 +20,9 @@ import { mockPatterns, mockProducts } from "@/utils/config";
 // import Home from "./App";
 // import dynamic from "next/dynamic";
 // import AppCreative from "./creative/page";
+
 import { useRouter } from "next/navigation";
+
 // import CustomizePage from "./(DashboardLayout)/dashboard/customize/page";
 
 // const AppHome = dynamic(() => import("./App"), { ssr: false });
